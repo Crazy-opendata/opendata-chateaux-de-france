@@ -3,7 +3,7 @@ Châteaux de France
 
 Liste des châteaux de France, par département :
 
-* 45 : https://fr.wikipedia.org/wiki/Liste\_des\_ch%C3%A2teaux\_du\_Loiret
+* 45 : https://fr.wikipedia.org/wiki/Liste_des_ch%C3%A2teaux_du_Loiret
 
 Licence
 -------
